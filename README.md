@@ -1,1 +1,1 @@
-This repository serves as a collection of my solutions to various Lab problems in MCA at Aligarh Muslim University, organized by Weeks.
+This repository serves as a collection of my solutions to various Lab problems in MCA (Semester 2) at Aligarh Muslim University, organized by Weeks.
